@@ -1,2 +1,3 @@
 # patikaClock
-Js patikası saat dijital saat örneği
+![](/img/name.png)
+![](/img/Gİf.gif)
